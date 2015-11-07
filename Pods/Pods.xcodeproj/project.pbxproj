@@ -203,14 +203,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		01F9722B748D405978DB678639B95F81 /* PBXContainerItemProxy */ = {
+		1855CBCA45063491E676CEB273F5CBBD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 5FF6252D2BD64D0620159F6063BE236C;
 			remoteInfo = Realm;
 		};
-		9F152ECD06ED4550A9B4D8DF4BA4A2D8 /* PBXContainerItemProxy */ = {
+		E7179EDC7D49BAEF1460065C0D7B3A31 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
@@ -945,7 +945,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				5657F99AB61652A7837AC4DD7AA3985B /* PBXTargetDependency */,
+				0B1217776FE109C7B851E01513A187CB /* PBXTargetDependency */,
 			);
 			name = "Pods-ToDoSample";
 			productName = "Pods-ToDoSample";
@@ -962,7 +962,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				AFA6429CC63D6437E0358475061375BD /* PBXTargetDependency */,
+				AAFC89708027FA4B494FBF1F7EE7F848 /* PBXTargetDependency */,
 			);
 			name = "Pods-ToDoSampleTests";
 			productName = "Pods-ToDoSampleTests";
@@ -1072,17 +1072,17 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		5657F99AB61652A7837AC4DD7AA3985B /* PBXTargetDependency */ = {
+		0B1217776FE109C7B851E01513A187CB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Realm;
 			target = 5FF6252D2BD64D0620159F6063BE236C /* Realm */;
-			targetProxy = 01F9722B748D405978DB678639B95F81 /* PBXContainerItemProxy */;
+			targetProxy = E7179EDC7D49BAEF1460065C0D7B3A31 /* PBXContainerItemProxy */;
 		};
-		AFA6429CC63D6437E0358475061375BD /* PBXTargetDependency */ = {
+		AAFC89708027FA4B494FBF1F7EE7F848 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Realm;
 			target = 5FF6252D2BD64D0620159F6063BE236C /* Realm */;
-			targetProxy = 9F152ECD06ED4550A9B4D8DF4BA4A2D8 /* PBXContainerItemProxy */;
+			targetProxy = 1855CBCA45063491E676CEB273F5CBBD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
